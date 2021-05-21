@@ -1,0 +1,41 @@
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\bin\Debug\project_01_total.exe.config
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\bin\Debug\project_01_total.exe
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\bin\Debug\project_01_total.pdb
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.Form1.resources
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.Properties.Resources.resources
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.exe
+C:\Users\Admin\Desktop\window homework\project_01_total\project_01_total\obj\Debug\project_01_total.pdb
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\bin\Debug\project_01_total.exe.config
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\bin\Debug\project_01_total.exe
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\bin\Debug\project_01_total.pdb
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.Form1.resources
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.Properties.Resources.resources
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.exe
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.pdb
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.Form2.resources
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.Form3.resources
+C:\Users\Admin\Desktop\c4w-17clc1-1753032-master\project_01_total\project_01_total\obj\Debug\project_01_total.Form4.resources
+C:\С#\project_01_total\project_01_total\bin\Debug\project_01_total.exe.config
+C:\С#\project_01_total\project_01_total\bin\Debug\project_01_total.exe
+C:\С#\project_01_total\project_01_total\bin\Debug\project_01_total.pdb
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.csprojAssemblyReference.cache
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.Form1.resources
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.Form2.resources
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.Form3.resources
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.Form4.resources
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.Properties.Resources.resources
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.GenerateResource.cache
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.CoreCompileInputs.cache
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.exe
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.pdb
+C:\С#\project_01_total\project_01_total\bin\Debug\DotNetZip.dll
+C:\С#\project_01_total\project_01_total\bin\Debug\DotNetZip.pdb
+C:\С#\project_01_total\project_01_total\bin\Debug\DotNetZip.xml
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.csproj.CopyComplete
+C:\С#\project_01_total\project_01_total\obj\Debug\project_01_total.ArchiveForm.resources
